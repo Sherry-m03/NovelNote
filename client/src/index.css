@@ -1,15 +1,14 @@
-body {
+body,
+html {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
   overscroll-behavior: none;
 }
 
-html {
-  overscroll-behavior: none;
-}
-
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -18,6 +17,8 @@ html {
   width: 100vw;
   background-image: url(../public/NovelNote-1.png);
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   margin: 0;
   overflow: hidden;
   cursor: pointer;
