@@ -103,7 +103,3 @@ client/
 
 - Google Books API for providing book data
 - Icons and assets by UXWing.
-
-```
-
-```
